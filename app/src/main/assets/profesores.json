@@ -1,0 +1,19 @@
+{
+  "data":
+[
+  {
+    "id":1,
+    "nombre":"Alberto",
+    "email":"a@a.com",
+    "password":"1212",
+    "foto":"photo"
+  },
+  {
+    "id":2,
+    "nombre":"Mari8a",
+    "email":"m@m.com",
+    "password":"abc",
+    "foto":"photo2"
+  }
+]
+}
